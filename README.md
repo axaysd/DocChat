@@ -1,4 +1,4 @@
-# RAG WebChat - Chat with LLM to get insights based on (private) URL.
+# DocChat - Chat with LLM to get insights based on (private) URL.
 
 RAG WebChat transforms any URL into an engaging, AI-driven conversation, unlocking detailed insights from web content.
 
